@@ -1,0 +1,59 @@
+font--- Rubik
+         700
+
+         Roboto-400
+          poppins--
+          400
+          700
+          500
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+
+color-----
+bg-#F0FFF0;
+green-#56548C;
+black- #000000;
+hover- #FD511A;
+menu--
+
+Books
+courses
+others
+blog
+sign in
+
+
+
+
+
+
+Graphic Design
+Web Design
+Business
+Marketing
+Engineering
+
+Terms
+Graphic Design
+Web Design
+Business
+Marketing
+Engineering
+
+
+Useful Link
+Graphic Design
+Web Design
+Business
+Marketing
+Engineering
+
+
+
+
+
+
+

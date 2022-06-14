@@ -1,0 +1,338 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+      /* header start */
+
+      header {
+    padding: 0px 0;
+    }
+      body {
+    margin-top: 80px;
+
+}
+
+    .c_logo{
+        width: 170px;
+    }
+    .menu ul li a {
+    padding: 0 10px !important;
+    margin-bottom: 8px;
+    }
+
+
+
+       /* bannar starrt */
+.bannar{
+    padding: 10px 0 60px;
+}
+.b_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.b_h1 {
+    margin: 0 0 0;
+    font-size: 18px;
+   
+}
+.p_black {
+    padding: 0px 0px;
+}
+.b_button {
+    margin-top: 0px;
+    
+}
+
+    .bn_img {
+    padding: 0 0px;
+    }
+
+       /* feature start */
+    .feature {
+    padding-bottom: 60px;
+}
+.s_text h1 {
+    
+    font-size: 22px;
+   
+}
+
+/* course start */
+.c_h1 {
+    font-size: 25px;
+}
+.course {
+    padding-bottom: 60px;
+}
+.c_item {
+    margin-top: 30px;
+}
+.c_date ul li img{
+    width: 14px;
+}
+.c_date ul li span{
+    font-size: 14px;
+}
+.c_seat ul li img {
+    width: 16px;
+}
+.c_seat ul li span{
+    font-size: 14px;
+}
+/* blog start */
+.people_img {
+    text-align: center;
+}
+.blog_text {
+    margin-top: 12px;
+    padding:0;
+    text-align: center;
+}
+.blog_item {
+    margin-top: 25px;
+}
+.blogs {
+    padding-bottom: 60px;
+}
+.footer-left p {
+    margin: 30px 23px 0;
+}
+.s_footer {
+    margin-top: 30px;
+}
+.footer-right {
+    padding-left: 0;
+    text-align: center;
+}
+.s_footer p a {
+    
+    font-size: 14px;
+}
+.footer_end {
+    margin-top: 60px;
+    margin-bottom: 20px;
+
+}
+.footer_end p a {
+    font-size: 15px;
+}
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+       /* header start */
+    .menu ul li a {
+    padding: 0 10px !important;
+    margin-bottom: 10px;
+    }
+
+       /* bannar starrt */
+.bannar{
+    padding: 10px 0 60px;
+}
+.b_text {
+    margin-top: 45px;
+    text-align: center;
+}
+.b_h1 {
+    margin: 0 0 0;
+    font-size: 30px;
+   
+}
+.p_black {
+    padding: 0px 20px;
+}
+.b_button {
+    margin-top: 0px;
+    
+}
+
+    .bn_img {
+    padding: 0 100px;
+    }
+
+    /* feature start */
+    .feature {
+    padding-bottom: 60px;
+}
+/* course start */
+.course {
+    padding-bottom: 60px;
+}
+.c_item {
+    margin-top: 30px;
+}
+/* blog start */
+.people_img {
+    text-align: center;
+}
+.blog_text {
+    margin-top: 12px;
+    padding:0;
+    text-align: center;
+}
+.blog_item {
+    margin-top: 46px;
+}
+.blogs {
+    padding-bottom: 60px;
+}
+
+/* footer start */
+.footer-right {
+    padding-left: 20px;
+}
+.footer-left p {
+    color: white;
+    margin: 35px 23px 0;
+}
+.s_footer {
+    margin-top: 40px;
+}
+.bold {
+    font-size: 16px;
+
+}
+.s_footer p a {
+    font-size: 14px;
+}
+.footer_end {
+    margin-top: 60px;
+    margin-bottom: 20px;
+
+}
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    body {
+    margin-top: 90px;
+
+}
+    header{
+        padding: 0 0;
+    }
+    .menu ul li a {
+    padding: 0 10px !important;
+    margin-bottom: 10px;
+    }
+
+    /* bannar starrt */
+.bannar{
+    padding: 10px 0 60px;
+}
+.b_text {
+    margin-top: 45px;
+    text-align: center;
+}
+.b_h1 {
+    margin: 0 0 0;
+    font-size: 40px;
+   
+}
+.p_black {
+    padding: 0px 20px;
+}
+.b_button {
+    margin-top: 0px;
+    
+}
+
+    .bn_img {
+    padding: 0 100px;
+    }
+
+    /* feature start */
+
+    .feature {
+    padding-bottom: 80px;
+}
+    .s_feature {
+        margin-top: 40px;
+    }
+    /* couse start */
+    .course {
+    padding-bottom: 80px;
+}
+    .c_item {
+    margin-top: 40px;
+    padding: 25px 120px 45px;
+    
+}
+/* blog start */
+.blogs {
+    padding-bottom: 80px;
+}
+.blog_item {
+    margin-top: 40px;
+}
+.blog_text {
+    padding: 0;
+}
+/* footer start */
+.footer-left p {
+    color: white;
+    margin: 30px -26px 0;
+}
+.footer-right {
+    padding-left: 70px;
+}
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+         /* bannar start */
+         .b_h1 {
+    font-size: 44px;
+   }
+   /* feature start */
+   .feature {
+    padding-bottom: 80px;
+}
+
+/* course start */
+.c_item {
+    padding: 15px 15px 40px;
+}
+.c_date ul li img{
+    width: 14px;
+}
+.c_date ul li span{
+    font-size: 14px;
+}
+.c_seat ul li img {
+    width: 16px;
+}
+.c_seat ul li span{
+    font-size: 14px;
+}
+
+/* blog start */
+
+.blog_text {
+    padding: 0 0px;
+}
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   /* banar start */
+    .b_h1 {
+    font-size: 54px;
+    } 
+/* blog start */
+
+.blog_text {
+    padding: 0 17px;
+}
+
+}
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+        
+ }
